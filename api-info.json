@@ -1,0 +1,9 @@
+{
+    "food": {
+        "get": {
+            "complexSearch": "https://api.spoonacular.com/recipes/complexSearch?type=dinner&apiKey=",
+            "analyzedInstructions": "https://api.spoonacular.com/recipes/__id__/analyzedInstructions?apiKey=",
+            "ingredients": "https://api.spoonacular.com/recipes/__id__/ingredientWidget.json?apiKey="
+        }
+    }
+}

@@ -1,0 +1,186 @@
+[
+    {
+        "name": "",
+        "steps": [
+            {
+                "number": 1,
+                "step": "To get started heat oven to 35",
+                "ingredients": [],
+                "equipment": [
+                    {
+                        "id": 404784,
+                        "name": "oven",
+                        "localizedName": "oven",
+                        "image": "oven.jpg"
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "step": "Mix salt, pepper, cilantro, cumin, chili powder, and quinoa together and place to the side.",
+                "ingredients": [
+                    {
+                        "id": 2009,
+                        "name": "chili powder",
+                        "localizedName": "chili powder",
+                        "image": "chili-powder.jpg"
+                    },
+                    {
+                        "id": 11165,
+                        "name": "cilantro",
+                        "localizedName": "cilantro",
+                        "image": "cilantro.png"
+                    },
+                    {
+                        "id": 1002030,
+                        "name": "pepper",
+                        "localizedName": "pepper",
+                        "image": "pepper.jpg"
+                    },
+                    {
+                        "id": 20035,
+                        "name": "quinoa",
+                        "localizedName": "quinoa",
+                        "image": "uncooked-quinoa.png"
+                    },
+                    {
+                        "id": 1002014,
+                        "name": "cumin",
+                        "localizedName": "cumin",
+                        "image": "ground-cumin.jpg"
+                    },
+                    {
+                        "id": 2047,
+                        "name": "salt",
+                        "localizedName": "salt",
+                        "image": "salt.jpg"
+                    }
+                ],
+                "equipment": []
+            },
+            {
+                "number": 3,
+                "step": "Cut the bell pepper in half (if you havent already) and clean out the seeds.",
+                "ingredients": [
+                    {
+                        "id": 10211821,
+                        "name": "bell pepper",
+                        "localizedName": "bell pepper",
+                        "image": "bell-pepper-orange.png"
+                    },
+                    {
+                        "id": 93818,
+                        "name": "seeds",
+                        "localizedName": "seeds",
+                        "image": "sunflower-seeds.jpg"
+                    }
+                ],
+                "equipment": []
+            },
+            {
+                "number": 4,
+                "step": "Layer quinoa and then grilled chicken into the pepper, and then top each with cheese.",
+                "ingredients": [
+                    {
+                        "id": 1015114,
+                        "name": "grilled chicken",
+                        "localizedName": "grilled chicken",
+                        "image": "rotisserie-chicken.png"
+                    },
+                    {
+                        "id": 1041009,
+                        "name": "cheese",
+                        "localizedName": "cheese",
+                        "image": "cheddar-cheese.png"
+                    },
+                    {
+                        "id": 1002030,
+                        "name": "pepper",
+                        "localizedName": "pepper",
+                        "image": "pepper.jpg"
+                    },
+                    {
+                        "id": 20035,
+                        "name": "quinoa",
+                        "localizedName": "quinoa",
+                        "image": "uncooked-quinoa.png"
+                    }
+                ],
+                "equipment": []
+            },
+            {
+                "number": 5,
+                "step": "Place in the oven for about 10 minutes until the bell pepper has softened.Chicken Fajita Stuffed Bell Pepper",
+                "ingredients": [
+                    {
+                        "id": 10211821,
+                        "name": "bell pepper",
+                        "localizedName": "bell pepper",
+                        "image": "bell-pepper-orange.png"
+                    },
+                    {
+                        "id": 5006,
+                        "name": "whole chicken",
+                        "localizedName": "whole chicken",
+                        "image": "whole-chicken.jpg"
+                    }
+                ],
+                "equipment": [
+                    {
+                        "id": 404784,
+                        "name": "oven",
+                        "localizedName": "oven",
+                        "image": "oven.jpg"
+                    }
+                ],
+                "length": {
+                    "number": 10,
+                    "unit": "minutes"
+                }
+            },
+            {
+                "number": 6,
+                "step": "Top with avocado and serve with shredded lettuce and salsa for a complete meal.This is SO GOOD! I love bell peppers, and I love all of these flavors that are married together that make this chicken fajita stuffed bell pepper so amazing. I could seriously just eat the flavored quinoa all by itself.If you are looking for even more delicious and healthy recipes, make sure you head over to the Simple Fit Forty tab under the cooking section of this blog. We have all of our favorite healthy recipes listed for you right there in one spot. You can also drool over out latest on the Simple Fit Forty Instagram page.If you are looking to get healthy and fit, come and join the super secret and awesome Simple Fit Forty Lifestyle community over on Facebook. We would love to have you join!",
+                "ingredients": [
+                    {
+                        "id": 10211821,
+                        "name": "bell pepper",
+                        "localizedName": "bell pepper",
+                        "image": "bell-pepper-orange.png"
+                    },
+                    {
+                        "id": 9037,
+                        "name": "avocado",
+                        "localizedName": "avocado",
+                        "image": "avocado.jpg"
+                    },
+                    {
+                        "id": 5006,
+                        "name": "whole chicken",
+                        "localizedName": "whole chicken",
+                        "image": "whole-chicken.jpg"
+                    },
+                    {
+                        "id": 11252,
+                        "name": "lettuce",
+                        "localizedName": "lettuce",
+                        "image": "iceberg-lettuce.jpg"
+                    },
+                    {
+                        "id": 20035,
+                        "name": "quinoa",
+                        "localizedName": "quinoa",
+                        "image": "uncooked-quinoa.png"
+                    },
+                    {
+                        "id": 6164,
+                        "name": "salsa",
+                        "localizedName": "salsa",
+                        "image": "salsa.png"
+                    }
+                ],
+                "equipment": []
+            }
+        ]
+    }
+]
